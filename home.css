@@ -7,7 +7,7 @@ header {
     color:black;
   }
             body {
-  background-image: url('images/school.jpeg');
+  background-image: url('"C:\Users\mdjau\OneDrive\Documents\codeding docu\images\school.jpeg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
